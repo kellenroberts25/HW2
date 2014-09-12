@@ -1,0 +1,27 @@
+body {
+	background: white;
+	border: none;
+}
+#menu {
+	display:none;
+}
+
+img {
+	display: none;
+}
+
+footer {
+	display: none;
+}
+
+#wrapper, #content {
+	width: auto;
+	border: none;
+	text-align: left;
+	color: black;
+
+}
+
+.resume {
+	border:none;
+}
