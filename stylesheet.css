@@ -1,13 +1,40 @@
 .resume {
-	text-align: left;
+    width: 550px;
+    padding: 25px;
+    border: 15px solid black;
+    margin: 25px;
+    border-radius:10px;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: #CCFFFF;
 	}
 
 .picture1 {
-	height: 100px; 
-	width: 100px;
+	height: 200px; 
+	width: 200px;
 }
 
 .picture2 {
-	height: 200px;
+	height: 400px;
 	width: 200px;
 }
+
+body {
+	background: #FFFFCC;
+}
+p {font-size:16px;}
+/**Headings**/
+h1 {
+	font-size:26px;}
+h2 { 
+	font-size: 24px;}
+h3 { 
+	font-size: 20px;}
+h4 { 
+	font-size: 18px;}
+h5 { 
+	font-size: 14px;}
+h6 { 
+	font-size: 12px;}
+
+li {font-size:14px;}
