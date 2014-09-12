@@ -5,6 +5,7 @@ body {
 #menu {
 	display:none;
 }
+div>a {display:none;}
 
 img {
 	display: none;
